@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body style="margin:0">
+    <div>
+        <div align="center" style="background-color:azure; width:100%; height:30px; clear:both "> <font color="green"> Freeship đơn từ 45k, giảm nhiều hơn cùng </font> <font color="blue"> FREESHIP</font> <font color="green"> XTRA </font></div>
+        <div align="center" style="width:30%; height:550px; background-color:azure; float:left">
+            <img src="~/Content/images/sua abc.png"
+                 height="auto" />
+        </div>
+        <div style="width:70%; height:700px; background-color:azure; float:right">
+
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <title>Trang chi tiết sản phẩm</title>
+                <link rel="stylesheet" href="styles.css">
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+            </head>
+            <body>
+                <div class="product-container">
+
+                    <div class="product-image">
+                    </div>
+                    <div class="product-info">
+                        <h2>Lon Sữa Glucerna 800g</h2>
+                        <p>Giá: 1.034.550₫</p>
+                        <p>Số lượng: <input type="number" id="quantity" value="1"></p>
+                        <p>Tạm tính: <span id="total-price">1.034.550₫</span></p>
+                        <button onclick="calculateTotalPrice()">Tính lại</button>
+                    </div>
+                </div>
+
+                <script src="script.js"></script>
+            </body>
+        </html>
+        @RenderBody()
+    </div>
+    <div style="background-color:azure; width:100%; height:50px; clear:both ">Xem thêm: Ưu điểm &Aacute; lưu ý của các sản phẩm </div>
+</div>
+</body>
+</html>

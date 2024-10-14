@@ -1,0 +1,298 @@
+﻿<html>
+<head>
+    <title>
+        Tiki Product Page
+    </title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        .header {
+            background-color: white;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+        }
+
+            .header img {
+                height: 40px;
+            }
+
+            .header .search-bar {
+                flex-grow: 3;
+                margin: 0 20px;
+            }
+
+                .header .search-bar input {
+                    width: 100%;
+                    padding: 10px;
+                    border: none;
+                    border-radius: 4px;
+                }
+
+            .header .icons {
+                display: flex;
+                align-items: center;
+            }
+
+                .header .icons i {
+                    color: white;
+                    margin-left: 20px;
+                    font-size: 20px;
+                }
+
+        .container {
+            display: flex;
+            
+        }
+
+        .left-column, .right-column {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .left-column {
+            flex: 2;
+            margin-right: 20px;
+        }
+
+        .right-column {
+            flex: 1
+            ;
+        }
+
+        .product-title {
+            font-size: 24px;
+            font-weight: 500;
+            margin-bottom: 10px;
+        }
+
+        .product-rating {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+            .product-rating i {
+                color: #ffcc00;
+                margin-right: 5px;
+            }
+
+        .product-price {
+            font-size: 28px;
+            color: #ff424e;
+            margin-bottom: 10px;
+        }
+
+        .product-flavor {
+            margin-bottom: 20px;
+        }
+
+            .product-flavor button {
+                background-color: white;
+                color: black;
+                border: 1;
+                padding: 10px 20px;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+        .shipping-info, .services {
+            margin-bottom: 20px;
+        }
+
+            .shipping-info p, .services p {
+                margin: 5px 0;
+            }
+
+        .buy-buttons {
+            display: flex;
+            flex-direction: column;
+        }
+
+            .buy-buttons button {
+                background-color: #ff424e;
+                color: white;
+                border: none;
+                padding: 15px;
+                border-radius: 4px;
+                cursor: pointer;
+                margin-bottom: 10px;
+            }
+
+                .buy-buttons button.secondary {
+                    background-color: white;
+                    color: #ff424e;
+                    border: 1px solid #ff424e;
+                }
+
+                    .buy-buttons button.secondary:hover {
+                        background-color: deepskyblue;
+                        color: deepskyblue;
+                    }
+
+                .buy-buttons button:hover {
+                    background-color: #e60023;
+                }
+
+        .product-images {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+            .product-images img {
+                width: 100px;
+                height: 100px;
+                margin: 0 10px;
+            }
+
+        .product-main-image img {
+            width: 100%;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img alt="Tiki Logo" height="40" src="~/Content/images/ảnh tiki.png" width="100" />
+        <div class="search-bar">
+            <input placeholder="Tìm kiếm sản phẩm, danh mục hay thương hiệu..." type="text" />
+        </div>
+        <div class="icons">
+            <i class="fas fa-user">
+            </i>
+            <i class="fas fa-shopping-cart">
+            </i>
+        </div>
+    </div>
+    <div class="container">
+        <div class="left-column">
+            <div class="product-main-image">
+                <img alt="Product Image" height="600" src="~/Content/images/sua abc.png" width="1500" />
+            </div>
+            <div class="product-images">
+               
+            </div>
+            <div class="product-title">
+                Lon Sữa Glucerna 800g/lon - Tặng 2 gói dùng thử
+            </div>
+            <div class="product-rating">
+                <i class="fas fa-star">
+                </i>
+                <i class="fas fa-star">
+                </i>
+                <i class="fas fa-star">
+                </i>
+                <i class="fas fa-star">
+                </i>
+                <i class="fas fa-star">
+                </i>
+                
+            </div>
+            <div class="product-price">
+                1.034.550₫
+            </div>
+            <div class="product-flavor">
+                <span>
+                    Hương vị
+                </span>
+                <button>
+                    Vani
+                </button>
+                <button>
+                    Dâu
+                </button>
+               
+            </div>
+            <div class="shipping-info">
+                <p>
+                    Giao đến: Q.1, P. Bến Nghé, Hồ Chí Minh
+                </p>
+                <p>
+                    Giao siêu tốc 2h
+                </p>
+                <p>
+                    Trước 11:00: Miễn phí giao
+                </p>
+                <p>
+                    Giao hàng trong ngày
+                </p>
+                <p>
+                    8h - 12h: 19.000đ
+                </p>
+                <p>
+                    Freeship 10k đơn từ 45k, Freeship 25k đơn từ 100k
+                </p>
+            </div>
+            <div class="services">
+                <p>
+                    Ưu đãi dành riêng cho chủ thẻ TikiCard
+                </p>
+                <p>
+                    Trả góp lãi suất 0%
+                </p>
+            </div>
+        </div>
+        <div class="right-column">
+            <div class="product-title">
+                Số lượt đánh giá
+            </div>
+            <div class="product-rating">
+                <i class="fas fa-star">
+                </i>
+                <i class="fas fa-star">
+                </i>
+                <i class="fas fa-star">
+                </i>
+                <i class="fas fa-star">
+                </i>
+                <i class="fas fa-star">
+                </i>
+                <span>
+                    4.7 (Xem đánh giá)
+                </span>
+            </div>
+            <div class="product-flavor">
+                <span>
+                    Vani
+                </span>
+            </div>
+            <div class="product-quantity">
+                <span>
+                    Số Lượng
+                </span>
+                <div>
+                    <button>
+                        -
+                    </button>
+                    <input type="text" value="1" />
+                    <button>
+                        +
+                    </button>
+                </div>
+            </div>
+            <div class="product-price">
+                1.034.550₫
+            </div>
+            <div class="buy-buttons">
+                <button>
+                    Mua ngay
+                </button>
+                <button class="secondary">
+                    Thêm vào giỏ
+                </button>
+                <button class="secondary">
+                    Mua trả sau
+                </button>
+            </div>
+            <div class="advertisement">
+                <img alt="Advertisement" height="100" src="https://storage.googleapis.com/a1aa/image/6OeBxZZKdAWoSKPA0fC9xk8uVAX2DjGH41i2CwAqoQ8T4cjTA.jpg" width="300" />
+            </div>
+        </div>
+    </div>
+</body>
+</html>

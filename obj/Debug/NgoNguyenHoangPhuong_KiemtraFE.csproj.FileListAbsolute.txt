@@ -1,0 +1,158 @@
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\NgoNguyenHoangPhuong_KiemtraFE.dll.config
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\NgoNguyenHoangPhuong_KiemtraFE.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\NgoNguyenHoangPhuong_KiemtraFE.pdb
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csc.exe
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csc.exe.config
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csc.rsp
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csi.exe
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csi.exe.config
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csi.rsp
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.AppContext.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Collections.Immutable.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Console.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.IO.Compression.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.IO.FileSystem.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Net.Http.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Net.Sockets.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.ValueTuple.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Xml.XPath.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\vbc.exe
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\vbc.exe.config
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\vbc.rsp
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\VBCSCompiler.exe
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\VBCSCompiler.exe.config
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Antlr3.Runtime.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Microsoft.Web.Infrastructure.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Newtonsoft.Json.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Helpers.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Mvc.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Optimization.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Razor.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.Deployment.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.Razor.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\WebGrease.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Helpers.xml
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Mvc.xml
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Optimization.xml
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Razor.xml
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.xml
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.Deployment.xml
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.Razor.xml
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Newtonsoft.Json.xml
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Antlr3.Runtime.pdb
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\obj\Debug\NgoNguyenHoangPhuong_KiemtraFE.csproj.AssemblyReference.cache
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\obj\Debug\NgoNguyenHoangPhuong_KiemtraFE.csproj.CoreCompileInputs.cache
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\obj\Debug\NgoNguyenHoangPhuong_KiemtraFE.csproj.CopyComplete
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\obj\Debug\NgoNguyenHoangPhuong_KiemtraFE.dll
+D:\Ngô Nguyễn Hoàng Phương 23DH112807\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\obj\Debug\NgoNguyenHoangPhuong_KiemtraFE.pdb
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\NgoNguyenHoangPhuong_KiemtraFE.dll.config
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\NgoNguyenHoangPhuong_KiemtraFE.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\NgoNguyenHoangPhuong_KiemtraFE.pdb
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Antlr3.Runtime.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Microsoft.Web.Infrastructure.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Newtonsoft.Json.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Helpers.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Mvc.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Optimization.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Razor.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.Deployment.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.Razor.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\WebGrease.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Helpers.xml
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Mvc.xml
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Optimization.xml
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.Razor.xml
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.xml
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.Deployment.xml
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\System.Web.WebPages.Razor.xml
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Newtonsoft.Json.xml
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Antlr3.Runtime.pdb
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\obj\Debug\NgoNguyenHoangPhuong_KiemtraFE.csproj.AssemblyReference.cache
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\obj\Debug\NgoNguyenHoangPhuong_KiemtraFE.csproj.CoreCompileInputs.cache
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\obj\Debug\NgoNguyenHoangPhuong_KiemtraFE.csproj.CopyComplete
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\obj\Debug\NgoNguyenHoangPhuong_KiemtraFE.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\obj\Debug\NgoNguyenHoangPhuong_KiemtraFE.pdb
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csc.exe
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csc.exe.config
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csc.rsp
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csi.exe
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csi.exe.config
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\csi.rsp
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.AppContext.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Collections.Immutable.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Console.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Globalization.Calendars.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.IO.Compression.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.IO.FileSystem.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Net.Http.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Net.Sockets.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Reflection.Metadata.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.ValueTuple.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Xml.XPath.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\vbc.exe
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\vbc.exe.config
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\vbc.rsp
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\VBCSCompiler.exe
+D:\lập tình web\NgoNguyenHoangPhuong_KiemtraFE\NgoNguyenHoangPhuong_KiemtraFE\bin\roslyn\VBCSCompiler.exe.config
